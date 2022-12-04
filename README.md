@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @WilliamFleitas
-- 👀 I’m interested in ... conquer the world!
-- 🌱 I’m currently learning ...backend & frontend in javascript
+- 👀 I’m interested in  conquer the world!
+- 🌱 I’m a full stack web developer graduated in SoyHenry bootcamp, 
 - 💞️ 
-- 📫 How to reach me ...will-f1@gmail.com
+- 📫 How to reach me: 
+- Email: will-f1@hotmail.com 
+- Linkedin: https://www.linkedin.com/in/w-oni/
+- Contact: +595975641525
 
 <!---
 xhiid/xhiid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
