@@ -1,4 +1,4 @@
-![Banner](https://i.imgur.com/pmASsyc.png)
+![Banner](https://i.imgur.com/lmgm5BA.png)
 - 👋 Hola, yo soy @WilliamFleitas.
 - 👹 Estoy interesado en conquistar el mundo!
 - 🌱 Soy un full stack web developer graduado en el bootcamp SoyHenry y actualmente estoy en busca de mi primer trabajo IT! 
