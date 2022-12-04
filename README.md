@@ -9,7 +9,7 @@
 - Contact: +595975641525
  
 - 👹PROYECTOS: 
-HENRYSHOP: ECOMMERCE PROYECTO FINAL DEL BOOTCAMP SOYHENRY. Proyecto realizado con un equipo de 8 estudiantes de henry.
+- HENRYSHOP: ECOMMERCE PROYECTO FINAL DEL BOOTCAMP SOYHENRY. Proyecto realizado con un equipo de 8 estudiantes de henry.
 
 - 👋Home de la page, carrusel, filtrados, searchbar.
 - 
