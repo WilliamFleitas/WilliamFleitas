@@ -9,6 +9,37 @@
 - Contact: +595975641525
  
 - 👹PROYECTOS: 
+- PosadaLaCarreta: Landing Page para una posada con sistema de reserva y pasarela de pagos incluida.
+
+- 👋Home de la page..
+![posada](https://i.imgur.com/RkriqGB.png)
+![posada](https://i.imgur.com/rsTd5r0.png)
+
+- 👋Filtro de habitaciones: Filtro por tipo de zona de la habitación y filtro por fechas disponibles
+![posada](https://i.imgur.com/j1FBjAk.png)
+
+- 👋Sistema de reserva y cotización: las reservas se deshabilitan si estan pasadas/reservadas, check in y check out + cantidad de huespedes para la reserva.
+- 
+![posada](https://i.imgur.com/jAYK3F2.png)
+![posada](https://i.imgur.com/kwt1YHg.png)
+
+- 👋Publicaciones y galeria: un apartado donde el administrador puede subir actualizaciones y publicar imagenes.
+- 
+![posada](https://i.imgur.com/J8bkxZ2.png)
+![posada](https://i.imgur.com/o6NRbgX.png)
+
+- 👋Panel de admin: Deshabilitar habitaciones, editar habitaciones, crear habitaciones, ademas de unos apartados para gestionar las reservas, crear publicaciones/crear instalaciones.
+- 
+![posada](https://i.imgur.com/DfEMFKh.png)
+
+
+
+- 💞️Link del proyecto: https://posada-la-carreta.vercel.app/
+- 💞️Link de la presentación del proyecto: https://www.youtube.com/watch?v=GMEZLMs_Bkg&feature=youtu.be
+ 
+                              ####################################################################################################
+
+
 - HENRYSHOP: ECOMMERCE PROYECTO FINAL DEL BOOTCAMP SOYHENRY. Proyecto realizado con un equipo de 8 estudiantes de henry.
 
 - 👋Home de la page, carrusel, filtrados, searchbar.
