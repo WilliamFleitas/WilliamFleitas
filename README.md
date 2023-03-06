@@ -46,8 +46,6 @@
 - 
 DESKTOP navegador: el render de productos desde navegadores en modo desktop tiene un paginado.
 ![ecommerce](https://i.imgur.com/xlcghgu.png)
-MOVIL navegador: el render de productos desde navegadores en modo movil tiene un scroll infinito.
-![ecommerce](https://i.imgur.com/61q5t3F.png)
 
 - 👋Carrito de compras: Se debe estar logeado y con la cuenta confirmada para iniciar una compra. Se incluyo el metodo de pago de mercadopago
 - 
