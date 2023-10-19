@@ -5,7 +5,7 @@
 - 📫 How to reach me: 
 - Email: will-f1@hotmail.com 
 - Linkedin: https://www.linkedin.com/in/w-oni/
-- CV: [LINK](https://drive.google.com/file/d/1VGncKoTvq6V59wh_CyZI5el0XW4AMkUV/view?usp=sharing).
+- CV: [LINK](https://drive.google.com/file/d/11jPVPIlSL1NvwiIEeNsmkpwsIyzevguv/view?usp=share_link).
 - Contact: +595975641525
  
 
